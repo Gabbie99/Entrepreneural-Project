@@ -1,0 +1,53 @@
+.michael{
+    background-color: lavender;
+    border-radius: 5px;
+}
+.mich-comp{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    color: chocolate;
+    font-family: tahoma;
+}
+.full{
+    font-family: tahoma;
+    font-size: x-large;
+}
+a{
+    color: chocolate;
+}
+address{
+    margin-top: 2rem;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    margin-right: 10px;
+    border: 3px solid magenta;
+    padding: 10px;
+    justify-content:flex-start;
+}
+li{
+    color: black;
+    font-family: arial;
+    margin-right: 1.3rem;
+}
+.search{
+    margin-left: 83rem;
+}
+.pi{
+    display: justify;
+    width: 30rem;
+}
+h3{
+    justify-content:center;
+    margin-left: 10rem;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.pii{
+    width: 30rem;
+}
